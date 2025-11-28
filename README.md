@@ -312,6 +312,9 @@ if __name__ == '__main__':
 
 ## 📈 Comparação de Desempenho
 
+<img width="1920" height="1091" alt="Figure_1" src="https://github.com/user-attachments/assets/1098494c-1f90-41d7-808f-a6e06bb77a04" />
+
+
 ### Métricas Comparativas
 
 | **Protocolo** | **Latência (ms)**<br>*média* | **Latência (ms)**<br>*desvio padrão* | **Throughput (%)**<br>*média* | **Throughput (%)**<br>*desvio padrão* | **Uso de CPU (%)**<br>*média* | **Uso de CPU (%)**<br>*desvio padrão* |
